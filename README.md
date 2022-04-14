@@ -31,5 +31,5 @@ undefined
 
 ## Walkthrough
 
-[Walkthrough](./assets/team-profile-generator-walkthrough.mov)
-[Youtube-walkthrough](https://youtu.be/)
+[Walkthrough](./assets/team-profile-walkthrough.mov)
+[Youtube-walkthrough](https://youtu.be/vQSqKVMaBVA)
