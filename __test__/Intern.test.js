@@ -5,12 +5,12 @@ test("creates an Intern object", () => {
 
   expect(intern.name).toBe("jovial");
 
-  expect(intern.school).toBe("uc");
+  expect(intern.school).toBe("ucb");
 });
 
 test("get intern school", () => {
   const intern = new Intern("jovial", 7, "jovial@gmail", "ucb");
-  expect(intern.getSchool()).toBe("uc");
+  expect(intern.getSchool()).toBe("ucb");
 });
 
 test("get intern role", () => {
